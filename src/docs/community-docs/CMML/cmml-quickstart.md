@@ -158,6 +158,7 @@ Every part of a research project finds a place to be put in:
 > - The sample box must be labeled with __23-0065_01__
 > - The sample tubes must then be labelled with __001__ up to __020__
 > - If you provide another sample set, the numbering on the tubes and in the sample sheet are consecutive for all samples.
+> - Each identifier (here numbering) should ideally only be assigned once.
 
 - __Metadata__ - the sheet is called 'Study' or 'Assay'.
 
