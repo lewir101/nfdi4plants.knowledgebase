@@ -146,14 +146,14 @@ Every part of a research project finds a place to be put in:
 
 - __Sample sheet__ that holds the name of the study or assay.
   
-    :arrow_right: Here you __describe__ your samples, how they have been processed and give them a __CMML-specific identifier__ that consists of your project-number and a following numbering. You can download the file and replace the online-version afterwards.
+    :bulb: Here you __describe__ your samples, how they have been processed and give them a __CMML-specific identifier__ that consists of your project-number and a following numbering. You can download the file and replace the online-version afterwards.
 
     :pen: The samples must be __labelled with a continous number and the box with the project-number and sample set.__
 
  
-    :exclamation: The box should not exceed the dimensions (mm): 50/130/130 (h/w/d) for 1.5 or 2 ml tubes when closed
+    :arrow_right: The box should not exceed the dimensions (mm): 50/130/130 (h/w/d) for 1.5 or 2 ml tubes when closed
 
-    :exclamation: Please use a permanent marker. Adhesive labels often detach due to freezing!
+    :arrow_right: Please use a permanent marker. Adhesive labels often detach due to freezing!
 
     :arrow_right: Also let us know whether the samples should be stored after processing, picked up or whether they can be destroyed.
 
@@ -166,7 +166,7 @@ Every part of a research project finds a place to be put in:
 
 - __Metadata__ - the sheet is called 'Study' or 'Assay'.
 
-1. __Protocols__:
+2. __Protocols__:
 
     :pen: Here you should __write down__ the used method, but also put in for example plasmid-cards or images that are specific for this part of the research.
 
@@ -182,7 +182,7 @@ Every part of a research project finds a place to be put in:
 
 ## Checklist for Cooperations with CMML
 
-To ensure a smooth sample transfer and fast introduction of samples into our analysis pipeline, please make sure that the following points apply to your samples __before you submit the samples to the facility:
+To ensure a smooth sample transfer and fast introduction of samples into our analysis pipeline, please make sure that the following points apply to your samples __before you submit the samples to the facility__:
 
 
 1. Read the [User regulation ("Nutzerordnung")](https://www.plant-biochemistry.hhu.de/facilities/metabolic-profiling/nutzerordnung).
@@ -195,7 +195,7 @@ To ensure a smooth sample transfer and fast introduction of samples into our ana
 1. Make an appointment to submit the samples with a member of the facility. The samples have to be submitted before 4 pm.
 1. In case the sample will be send via Mail a permanent cooling of the samples is required and the package has to arrive before 3 pm.
 
-:bulb: Our department is only able to accept and process the samples if thischecklist is fulfilled.
+:bulb: Our department is only able to accept and process the samples if this checklist is fulfilled.
 
 ## CMML Support 🌱
 
