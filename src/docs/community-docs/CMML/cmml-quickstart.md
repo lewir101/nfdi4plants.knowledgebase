@@ -182,7 +182,8 @@ Every part of a research project finds a place to be put in:
 
 ## Checklist for Cooperations with CMML
 
-:bulb: Our department is only able to accept and process the samples if the following checklist is fulfilled:
+To ensure a smooth sample transfer and fast introduction of samples into our analysis pipeline, please make sure that the following points apply to your samples __before you submit the samples to the facility:
+
 
 1. Read the [User regulation ("Nutzerordnung")](https://www.plant-biochemistry.hhu.de/facilities/metabolic-profiling/nutzerordnung).
 1. Setup a [DataHUB account](https://register.nfdi4plants.org).
@@ -193,6 +194,8 @@ Every part of a research project finds a place to be put in:
 1. Also let us know whether the samples should be stored after processing, picked up or whether they can be destroyed.
 1. Make an appointment to submit the samples with a member of the facility. The samples have to be submitted before 4 pm.
 1. In case the sample will be send via Mail a permanent cooling of the samples is required and the package has to arrive before 3 pm.
+
+:bulb: Our department is only able to accept and process the samples if thischecklist is fulfilled.
 
 ## CMML Support 🌱
 
