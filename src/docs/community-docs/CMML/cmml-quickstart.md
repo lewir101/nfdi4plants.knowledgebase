@@ -150,29 +150,33 @@ Every part of a research project finds a place to be put in:
 
     :pen: The samples must be __labelled with a continous number and the box with the project-number and sample set.__
 
+ 
+    :exclamation: The box should not exceed the dimensions (mm): 50/130/130 (h/w/d) for 1.5 or 2 ml tubes when closed
+
+    :exclamation: Please use a permanent marker. Adhesive labels often detach due to freezing!
+
     :arrow_right: Also let us know whether the samples should be stored after processing, picked up or whether they can be destroyed.
 
 > Example &ndash; the first sample set has 20 samples and your project-number is 23-0065:
 >
 > - The final numbering in the sample sheet would be: __23-0065_001__ up to __23-0065_020__
-> - The sample box must be labeled with __23-0065_01__
-> - The sample tubes must then be labelled with __001__ up to __020__
+> - The sample tubes must then be labelled with __001__ up to __020__.
 > - If you provide another sample set, the numbering on the tubes and in the sample sheet are consecutive for all samples.
 > - Each identifier (here numbering) should ideally only be assigned once.
 
 - __Metadata__ - the sheet is called 'Study' or 'Assay'.
 
-2. __Protocols__:
+1. __Protocols__:
 
     :pen: Here you should __write down__ the used method, but also put in for example plasmid-cards or images that are specific for this part of the research.
 
     :arrow_right: Most optimal __file-format__ would be __.txt__ or __.md__, but a Word-file and other formats can also be possible.
 
-3. __Resources__ (only in studies)
+2. __Resources__ (only in studies)
 
-4. __Dataset__ (only in assays)
+3. __Dataset__ (only in assays)
   
-5. __README.md__: This file can be used to describe different "studies" and "assays" and take notes for this specific section of the experiment. The document is then visible on the website in the lower area when opening the respective structure.
+4. __README.md__: This file can be used to describe different "studies" and "assays" and take notes for this specific section of the experiment. The document is then visible on the website in the lower area when opening the respective structure.
 
 ***
 
@@ -185,8 +189,10 @@ Every part of a research project finds a place to be put in:
 1. Access to your ARC.
 1. __isa.investigations.xlsx__: Fill out the part INVESTIGATION CONTACTS with the mandatory information.
 1. __isa.study/assay.xlsx__: Fill out the Sample sheet.
-1. Labelling of the samples with CMML-specific identifier.
+1. Labelling of the samples with CMML-specific identifier. (running number; permanent marker; suitable box)
 1. Also let us know whether the samples should be stored after processing, picked up or whether they can be destroyed.
+1. Make an appointment to submit the samples with a member of the facility. The samples have to be submitted before 4 pm.
+1. In case the sample will be send via Mail a permanent cooling of the samples is required and the package has to arrive before 3 pm.
 
 ## CMML Support 🌱
 
