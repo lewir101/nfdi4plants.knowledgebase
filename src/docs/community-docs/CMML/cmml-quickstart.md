@@ -18,7 +18,7 @@ http://127.0.0.1:8080/docs/community-docs/CMML/cmml-quickstart.html
 -->
 ## About this guide
 
-This quick start introduces how to cooperate with the [CEPLAS metabolomics & metabolism laboratory (CMML)](https://www.ceplas.eu/en/research/plant-metabolism-and-metabolomics-facility) at Heinrich-Heine-University in Düsseldorf.
+This quick start introduces how to cooperate with the [CEPLAS metabolomics & metabolism laboratory (CMML)](https://www.ceplas.eu/en/research/plant-metabolism-and-metabolomics-facility) at Heinrich-Heine University in Düsseldorf.
 
 The primary focus is on the exchange of data between CMML and the user by applying tools and services provided by DataPLANT.
 
